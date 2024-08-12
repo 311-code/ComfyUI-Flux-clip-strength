@@ -8,4 +8,4 @@ This is experimental code I just made for Comfyui's nodes_flux.py let's allows y
 
 We aren't just doing 1 or 10, **We have 100,000 max strength! (for excessive experimentation)**
 
-Please support my custom development efforts for ![311_code on](https://ko-fi.com/311_code)
+Please support custom node development efforts for 311_code on https://ko-fi.com/311_code
