@@ -1,4 +1,4 @@
-# ComfyUI-![flux-clip-strength](https://github.com/user-attachments/assets/9309f3a4-201f-4594-8127-0575537112f7)
+![ComfyUI-flux-clip-strength](https://github.com/user-attachments/assets/9309f3a4-201f-4594-8127-0575537112f7)
 
 This is some experimental code for Comfyui's nodes_flux.py let's allows yout to control the strength of clip_l and t5xxl clip, and also increase guidance past 100.
 
